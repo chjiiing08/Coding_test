@@ -4,8 +4,7 @@ class Solution {
         int cnt=0;
         for(int i =0; i<array.length; i++){
                 if(array[i]==n){
-                    cnt++;
-                    answer=cnt;
+                    answer++;
                 }
             }
         return answer;
