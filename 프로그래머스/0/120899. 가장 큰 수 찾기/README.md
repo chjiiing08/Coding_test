@@ -1,6 +1,6 @@
 # [level 0] 가장 큰 수 찾기 - 120899 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120899) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 17일 13:36:56
+2025년 07월 17일 13:41:59
 
 ### 문제 설명
 
